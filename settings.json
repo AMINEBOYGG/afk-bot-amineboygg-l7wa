@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "rogueadventures.aternos.me:26133",
+    "port": 26133,
     "version": "1.20.1",
     "try-creative": false
   },
